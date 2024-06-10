@@ -119,6 +119,6 @@ def Face(empname):
     cv2.destroyAllWindows()
     vs.stop()
     GPIO.output(37,GPIO.LOW)
-    print('noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo')
+   
     return False
 #Face('bajirao')
